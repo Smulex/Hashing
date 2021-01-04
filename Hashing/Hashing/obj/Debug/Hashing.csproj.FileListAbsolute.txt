@@ -1,0 +1,15 @@
+C:\Users\chri45i4\source\repos\Hashing\Hashing\Hashing\bin\Debug\Hashing.exe.config
+C:\Users\chri45i4\source\repos\Hashing\Hashing\Hashing\bin\Debug\Hashing.exe
+C:\Users\chri45i4\source\repos\Hashing\Hashing\Hashing\bin\Debug\Hashing.pdb
+C:\Users\chri45i4\source\repos\Hashing\Hashing\Hashing\obj\Debug\Hashing.csprojAssemblyReference.cache
+C:\Users\chri45i4\source\repos\Hashing\Hashing\Hashing\obj\Debug\MainWindow.g.cs
+C:\Users\chri45i4\source\repos\Hashing\Hashing\Hashing\obj\Debug\App.g.cs
+C:\Users\chri45i4\source\repos\Hashing\Hashing\Hashing\obj\Debug\Hashing_MarkupCompile.cache
+C:\Users\chri45i4\source\repos\Hashing\Hashing\Hashing\obj\Debug\Hashing_MarkupCompile.lref
+C:\Users\chri45i4\source\repos\Hashing\Hashing\Hashing\obj\Debug\MainWindow.baml
+C:\Users\chri45i4\source\repos\Hashing\Hashing\Hashing\obj\Debug\Hashing.g.resources
+C:\Users\chri45i4\source\repos\Hashing\Hashing\Hashing\obj\Debug\Hashing.Properties.Resources.resources
+C:\Users\chri45i4\source\repos\Hashing\Hashing\Hashing\obj\Debug\Hashing.csproj.GenerateResource.cache
+C:\Users\chri45i4\source\repos\Hashing\Hashing\Hashing\obj\Debug\Hashing.csproj.CoreCompileInputs.cache
+C:\Users\chri45i4\source\repos\Hashing\Hashing\Hashing\obj\Debug\Hashing.exe
+C:\Users\chri45i4\source\repos\Hashing\Hashing\Hashing\obj\Debug\Hashing.pdb
